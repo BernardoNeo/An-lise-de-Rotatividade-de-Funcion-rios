@@ -1,4 +1,4 @@
-# Analise-de-Rotatividade-de-Funcionarios
+# Análise de Rotatividade de Funcionários 
 
 Introdução
 Este projeto tem como objetivo analisar a rotatividade de funcionários em uma empresa fictícia de RH. Utilizando o Microsoft Excel, foram explorados dados de desligamento de funcionários, seus salários, cargos e características demográficas, com o intuito de encontrar padrões que expliquem as causas de demissão ou pedidos de demissão.
