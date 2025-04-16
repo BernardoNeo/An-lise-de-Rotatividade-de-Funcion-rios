@@ -47,6 +47,9 @@ Gráficos e Visualizações:
 
 ![demissao x idade](https://github.com/user-attachments/assets/cca6163c-3f1d-4539-8f8e-d74235dfa051)
 
+![demissoes](https://github.com/user-attachments/assets/655f4b5d-c4f0-48b7-a8e8-e24327fe5555)
+
+
 Conclusão e Aprendizado:
 
 - Neste segundo dia de aula, foi possível aplicar conhecimentos práticos em Excel e análise de dados. Aprender a explorar informações com tabelas dinâmicas e gráficos ajudou a desenvolver raciocínio analítico e a entender melhor como interpretar dados reais de uma empresa.
