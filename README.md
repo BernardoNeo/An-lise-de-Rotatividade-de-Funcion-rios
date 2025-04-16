@@ -43,12 +43,9 @@ Insights Obtidos:
 
 Gráficos e Visualizações:
 
-- Demissão por Gênero:
-![demissao por genero](https://github.com/user-attachments/assets/311bb158-9541-42f9-bd62-89a12bb393b1)
+Demissão por Gênero:![demissao por genero](https://github.com/user-attachments/assets/311bb158-9541-42f9-bd62-89a12bb393b1)
 
-
-- Demissão por Idade:
-![demissao x idade](https://github.com/user-attachments/assets/cca6163c-3f1d-4539-8f8e-d74235dfa051)
+Demissão por Idade:![demissao x idade](https://github.com/user-attachments/assets/cca6163c-3f1d-4539-8f8e-d74235dfa051)
 
 Conclusão e Aprendizado
 Neste segundo dia de aula, foi possível aplicar conhecimentos práticos em Excel e análise de dados. Aprender a explorar informações com tabelas dinâmicas e gráficos ajudou a desenvolver raciocínio analítico e a entender melhor como interpretar dados reais de uma empresa.
